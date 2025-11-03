@@ -20,10 +20,14 @@ namespace PetShop.Domain
         AtendimentoRepository _atendimentoRepository = new AtendimentoRepository();
         public async Task CadastrarAtendimento(int clienteId)
         {
-            
+
+            Console.WriteLine("------------------------");
 
             Servicos servico = new Servicos();
             Pet pet = new Pet();
+
+            Console.WriteLine("-----------Iniciando-------------");
+
 
             pet = await pet.RegistrarPet(clienteId);
 
@@ -31,7 +35,7 @@ namespace PetShop.Domain
 
             List<Servicos> listaDeServicos = servico.MostrarServicos();
 
-            Console.WriteLine("---------------------------");
+            Console.WriteLine("------------------------");
             Console.WriteLine("Deseja adicionar mais serviços ao pedido? s/n");
 
             string desejoCliente = Console.ReadLine();
