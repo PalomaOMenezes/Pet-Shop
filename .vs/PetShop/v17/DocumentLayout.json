@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\PetShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|c:\\dev\\petshop\\petshop\\domain\\atendimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|solutionrelative:petshop\\domain\\atendimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|c:\\dev\\petshop\\petshop\\domain\\atendimentoservicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|solutionrelative:petshop\\domain\\atendimentoservicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|c:\\dev\\petshop\\petshop\\repository\\atendimentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|solutionrelative:petshop\\repository\\atendimentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|c:\\dev\\petshop\\petshop\\domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|solutionrelative:petshop\\domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|c:\\dev\\petshop\\petshop\\domain\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|solutionrelative:petshop\\domain\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|c:\\dev\\petshop\\petshop\\domain\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|solutionrelative:petshop\\domain\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|c:\\dev\\petshop\\petshop\\domain\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|solutionrelative:petshop\\domain\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|c:\\dev\\petshop\\petshop\\domain\\servicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|solutionrelative:petshop\\domain\\servicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|c:\\dev\\petshop\\petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|solutionrelative:petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|c:\\dev\\petshop\\petshop\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|solutionrelative:petshop\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|c:\\dev\\petshop\\petshop\\repository\\servicosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|solutionrelative:petshop\\repository\\servicosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|c:\\dev\\petshop\\petshop\\repository\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|solutionrelative:petshop\\repository\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|c:\\dev\\petshop\\petshop\\repository\\atendimentoservicosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|solutionrelative:petshop\\repository\\atendimentoservicosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|c:\\dev\\petshop\\petshop\\repository\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E6382A-8B52-456A-A26C-3ABFE36CCA18}|PetShop\\PetShop.csproj|solutionrelative:petshop\\repository\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 324,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Servicos.cs",
+              "DocumentMoniker": "C:\\Dev\\PetShop\\PetShop\\Domain\\Servicos.cs",
+              "RelativeDocumentMoniker": "PetShop\\Domain\\Servicos.cs",
+              "ToolTip": "C:\\Dev\\PetShop\\PetShop\\Domain\\Servicos.cs",
+              "RelativeToolTip": "PetShop\\Domain\\Servicos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T20:48:48.404Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Atendimento.cs",
+              "DocumentMoniker": "C:\\Dev\\PetShop\\PetShop\\Domain\\Atendimento.cs",
+              "RelativeDocumentMoniker": "PetShop\\Domain\\Atendimento.cs",
+              "ToolTip": "C:\\Dev\\PetShop\\PetShop\\Domain\\Atendimento.cs",
+              "RelativeToolTip": "PetShop\\Domain\\Atendimento.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T20:55:47.999Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AtendimentoServicosRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\PetShop\\PetShop\\Repository\\AtendimentoServicosRepository.cs",
+              "RelativeDocumentMoniker": "PetShop\\Repository\\AtendimentoServicosRepository.cs",
+              "ToolTip": "C:\\Dev\\PetShop\\PetShop\\Repository\\AtendimentoServicosRepository.cs",
+              "RelativeToolTip": "PetShop\\Repository\\AtendimentoServicosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:27:15.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AtendimentoRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\PetShop\\PetShop\\Repository\\AtendimentoRepository.cs",
+              "RelativeDocumentMoniker": "PetShop\\Repository\\AtendimentoRepository.cs",
+              "ToolTip": "C:\\Dev\\PetShop\\PetShop\\Repository\\AtendimentoRepository.cs",
+              "RelativeToolTip": "PetShop\\Repository\\AtendimentoRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T19:23:50.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnderecoService.cs",
+              "DocumentMoniker": "C:\\Dev\\PetShop\\PetShop\\Domain\\EnderecoService.cs",
+              "RelativeDocumentMoniker": "PetShop\\Domain\\EnderecoService.cs",
+              "ToolTip": "C:\\Dev\\PetShop\\PetShop\\Domain\\EnderecoService.cs",
+              "RelativeToolTip": "PetShop\\Domain\\EnderecoService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T21:01:19.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnderecoRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\PetShop\\PetShop\\Repository\\EnderecoRepository.cs",
+              "RelativeDocumentMoniker": "PetShop\\Repository\\EnderecoRepository.cs",
+              "ToolTip": "C:\\Dev\\PetShop\\PetShop\\Repository\\EnderecoRepository.cs",
+              "RelativeToolTip": "PetShop\\Repository\\EnderecoRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T19:49:53.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Dev\\PetShop\\PetShop\\Domain\\Cliente.cs",
+              "RelativeDocumentMoniker": "PetShop\\Domain\\Cliente.cs",
+              "ToolTip": "C:\\Dev\\PetShop\\PetShop\\Domain\\Cliente.cs",
+              "RelativeToolTip": "PetShop\\Domain\\Cliente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T19:41:07.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AtendimentoServicos.cs",
+              "DocumentMoniker": "C:\\Dev\\PetShop\\PetShop\\Domain\\AtendimentoServicos.cs",
+              "RelativeDocumentMoniker": "PetShop\\Domain\\AtendimentoServicos.cs",
+              "ToolTip": "C:\\Dev\\PetShop\\PetShop\\Domain\\AtendimentoServicos.cs",
+              "RelativeToolTip": "PetShop\\Domain\\AtendimentoServicos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T22:13:58.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServicosRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\PetShop\\PetShop\\Repository\\ServicosRepository.cs",
+              "RelativeDocumentMoniker": "PetShop\\Repository\\ServicosRepository.cs",
+              "ToolTip": "C:\\Dev\\PetShop\\PetShop\\Repository\\ServicosRepository.cs",
+              "RelativeToolTip": "PetShop\\Repository\\ServicosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T21:11:42.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PetRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\PetShop\\PetShop\\Repository\\PetRepository.cs",
+              "RelativeDocumentMoniker": "PetShop\\Repository\\PetRepository.cs",
+              "ToolTip": "C:\\Dev\\PetShop\\PetShop\\Repository\\PetRepository.cs",
+              "RelativeToolTip": "PetShop\\Repository\\PetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:58:52.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Dev\\PetShop\\PetShop\\Domain\\Endereco.cs",
+              "RelativeDocumentMoniker": "PetShop\\Domain\\Endereco.cs",
+              "ToolTip": "C:\\Dev\\PetShop\\PetShop\\Domain\\Endereco.cs",
+              "RelativeToolTip": "PetShop\\Domain\\Endereco.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAawD0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T21:50:08.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\PetShop\\PetShop\\Repository\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "PetShop\\Repository\\ClienteRepository.cs",
+              "ToolTip": "C:\\Dev\\PetShop\\PetShop\\Repository\\ClienteRepository.cs",
+              "RelativeToolTip": "PetShop\\Repository\\ClienteRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T21:27:03.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Dev\\PetShop\\PetShop\\Domain\\Pet.cs",
+              "RelativeDocumentMoniker": "PetShop\\Domain\\Pet.cs",
+              "ToolTip": "C:\\Dev\\PetShop\\PetShop\\Domain\\Pet.cs",
+              "RelativeToolTip": "PetShop\\Domain\\Pet.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:07:57.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\PetShop\\PetShop\\Program.cs",
+              "RelativeDocumentMoniker": "PetShop\\Program.cs",
+              "ToolTip": "C:\\Dev\\PetShop\\PetShop\\Program.cs",
+              "RelativeToolTip": "PetShop\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:47:43.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
