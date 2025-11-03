@@ -305,23 +305,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\palom\\.nuget\\packages\\": {},
+    "C:\\Users\\Rodol\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\PetShop\\PetShop\\PetShop.csproj",
+      "projectUniqueName": "F:\\dev\\Pet-Shop\\PetShop\\PetShop.csproj",
       "projectName": "PetShop",
-      "projectPath": "C:\\Dev\\PetShop\\PetShop\\PetShop.csproj",
-      "packagesPath": "C:\\Users\\palom\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\PetShop\\PetShop\\obj\\",
+      "projectPath": "F:\\dev\\Pet-Shop\\PetShop\\PetShop.csproj",
+      "packagesPath": "C:\\Users\\Rodol\\.nuget\\packages\\",
+      "outputPath": "F:\\dev\\Pet-Shop\\PetShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\palom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rodol\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -348,7 +348,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -383,7 +383,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
