@@ -10,6 +10,16 @@ namespace PetShop.Domain
 {
     public class Atendimento
     {
+        public Servicos servico;
+        public Pet pet;
+
+
+        public Atendimento() 
+        {
+            servico = new Servicos();
+            pet = new Pet();
+        }
+
         public int Id { get; set; }
         public int Pet_Id { get; set; }
         public DateTime Data_Atendimento { get; set; }
@@ -21,13 +31,9 @@ namespace PetShop.Domain
         public async Task CadastrarAtendimento(int clienteId)
         {
             
-
-            Servicos servico = new Servicos();
-            Pet pet = new Pet();
-
             pet = await pet.RegistrarPet(clienteId);
 
-            this.Data_Atendimento = DateTime.Now;
+            this.Data_Atendimento = DateTime.UtcNow;
 
             List<Servicos> listaDeServicos = servico.MostrarServicos();
 
@@ -41,7 +47,7 @@ namespace PetShop.Domain
             {
                 while (resposta == true)
                 {
-                    Console.WriteLine("Digite o numero do serviço desejado: ");
+                    Console.WriteLine("Por favor digite o numero do serviço desejado: ");
 
                     int servicoEscolhido = int.Parse(Console.ReadLine());
 
@@ -50,9 +56,9 @@ namespace PetShop.Domain
                     {
                         servicosDoAtendimento.Add(listaDeServicos.Where(x => x.Id == servicoEscolhido).FirstOrDefault());
 
-                        Console.WriteLine("Serviço adicionado com sucesso!");
+                        Console.WriteLine("Serviço incluido com sucesso!");
                         Console.WriteLine("---------------------------------");
-                        Console.WriteLine("Deseja adiocionar mais? s/n");
+                        Console.WriteLine("Deseja incluir algo a mais? s/n");
                         desejoCliente = Console.ReadLine();
 
                         if (desejoCliente == "n")
